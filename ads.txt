@@ -161,6 +161,8 @@ teads.tv, 17978, DIRECT, 15a9c44f6d26cbe1
 udmserve.net, 4273, DIRECT, 0cf60ed62b5f3e40
 yandex.com, 306176649, DIRECT
 
+google.com, pub-3865509633608857, DIRECT, f08c47fec0942fa0
+
 
 adpixis.com, 22951906221, DIRECT
 adster.tech, 22951906221, DIRECT
